@@ -9,7 +9,7 @@
 			"value": "DEFAULT_SECRET"
 		},
 		"RCLONE_CONFIG": {
-			"description": "Rclone config to mount in one line, replace line breaks with \"\\n\"",
+			"description": "For test Rclone config to mount in one line, replace line breaks with \"\\n\"",
 			"required": false
 		},
 		"RCLONE_DESTINATION": {
